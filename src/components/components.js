@@ -1,0 +1,7 @@
+export { default as Navbar } from './Navbar'
+export { default as Hero } from './Hero'
+export { default as SelfServe } from './SelfServe'
+export { default as Trusted } from './Trusted'
+export { default as Maximize } from './Maximize'
+export { default as FAQ } from './FAQ'
+export { default as Footer } from './Footer'
